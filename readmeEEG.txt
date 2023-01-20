@@ -1,0 +1,1 @@
+For eeg data, there are 3 tasks for each participant. Data is divided in corresponding runs (as described in the methods section of the article)
