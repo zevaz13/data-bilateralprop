@@ -21,4 +21,5 @@ The intention of this data is result replication only. Please contact the corres
 
 Sebastian Rueda Parra
 email1: rued7682@vandals.uidaho.edu
-email2: sebastian@neurotechcenter.org.
+
+email2: sebastian@neurotechcenter.org
