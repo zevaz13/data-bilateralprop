@@ -8,6 +8,7 @@ Sebastian Rueda Parra (PhD), Electrical Engineering, University of Idaho
 Eric Wolbrech (PhD), Mechanical Engineering, University of Idaho 
 
 Joel Perry (PhD), Mechanical Engineering, University of Idaho
+
 Disha Gupta (PhD), Stratton Veterans Affairs Medical Center, Albany, New York. Department of Electrical and Computer Engineering, University at Albany, State University of New York, Albany, New York.
 
 
