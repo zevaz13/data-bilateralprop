@@ -1,5 +1,3 @@
-# data/bilateralprop
-
 # Dataset-acess-for-PLOS-ONE:
 
 Raw data for the PLOS ONE paper: "Neural Correlates of Bilateral Proprioception and Adaptation with Training"
